@@ -3,3 +3,4 @@ A python project for the course of Principles of Programming Languages and Compi
 ~~~RUN~~~
 Just run the edit.py file using a python IDE
 You might need to download some modules
+Documentation is in GREEK LANGUAGE
